@@ -1,12 +1,12 @@
-## Synopsis
+## Sinopsis
 
-Proyecto iniciado con la motivacion de colaborar un poco con el desarollo de la cultura devops en latinoamerica, y con la intencion de crear documentacion en espanol accesible para aquellos que la quieran consultar
+Proyecto iniciado con la motivación de colaborar un poco con el desarollo de la cultura DevOps en latinoamérica, y con la intención de crear documentación en español accesible para aquellos que la quieran consultar.
 
-## Motivacion
+## Motivación
 
-Como altos consumidores de recursos en internet buscamos devolver algo 
+Como altos consumidores de recursos en internet buscamos devolver algo.
 
-## License
+## Licencia
 
 Copyright [2016] [devopslatino]
 
